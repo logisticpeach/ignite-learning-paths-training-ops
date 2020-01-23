@@ -24,7 +24,7 @@ variables:
   ingress: 7930547773f8407d9489.northeurope.aksapp.io
 
   # Production Database
-  hostDB: https://ttshoppingdbya64dagm2awy6.documents.azure.com:443/
+  hostDB: ttshoppingdbya64dagm2awy6.documents.azure.com:443/
 
 stages:
 
