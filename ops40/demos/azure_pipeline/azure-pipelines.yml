@@ -14,17 +14,17 @@ variables:
   containerRegistryFqdn: ttacrfqkz63c47hsxc.azurecr.io
 
   # AKS Pre-Production
-  aks-cluster-rg-pre-prod: ops40-demo-update-002
-  aks-cluster-pre-prod: tailwindtradersaksfqkz63c47hsxc
-  ingress-pre-prod: 0308a1246be6400d8ba5.eastus2.aksapp.io
+  aks-cluster-rg-pre-prod: twt
+  aks-cluster-pre-prod: tailwindtradersaksya64dagm2awy6
+  ingress-pre-prod: 7930547773f8407d9489.northeurope.aksapp.io
 
   # Production
-  aks-cluster-rg: ops40-demo-update-002
-  aks-cluster: tailwindtradersaksfqkz63c47hsxc
-  ingress: 0308a1246be6400d8ba5.eastus2.aksapp.io
+  aks-cluster-rg: twt
+  aks-cluster: tailwindtradersaksya64dagm2awy6
+  ingress: 7930547773f8407d9489.northeurope.aksapp.io
 
   # Production Database
-  hostDB: https://ttshoppingdbfqkz63c47hsxc.documents.azure.com:443/
+  hostDB: https://ttshoppingdbya64dagm2awy6.documents.azure.com:443/
 
 stages:
 
