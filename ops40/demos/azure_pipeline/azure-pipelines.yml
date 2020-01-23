@@ -10,8 +10,8 @@ variables:
   azureSubscription: azure-service-connection
 
   # Container Registry
-  containerRegistryName: ttacrfqkz63c47hsxc
-  containerRegistryFqdn: ttacrfqkz63c47hsxc.azurecr.io
+  containerRegistryName: ttacrya64dagm2awy6
+  containerRegistryFqdn: ttacrya64dagm2awy6.azurecr.io
 
   # AKS Pre-Production
   aks-cluster-rg-pre-prod: twt
